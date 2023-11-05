@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab03_1</string>
+    //R.string.app_name
+    <string name="long_text">그런데 인구가 빠르게 줄어들고 있는 국내의 현실을 감안한다면 공급이 부족하다 라는 말은 맞지 않아 보인다. 최근에 주택가격이 다시 오름세를 보이지만 완전한 시장의 반등을 뜻하는 것인지는 아직 확신하기 어렵다. 주택의 공급은 어느 정도가 마땅한 수준인가.</string>
+</resources>
